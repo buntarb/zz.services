@@ -1,0 +1,19 @@
+{
+	"name": "zz.services",
+	"version": "20160421.0.0",
+	"description": "Base services module for imazzine-developer-lib",
+	"author": {
+		"name": "Artem Lytvynov",
+		"email": "buntarb@gmail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "http://imazzine.com/idl/zz.services/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/buntarb/zz.services.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
