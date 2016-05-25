@@ -1,6 +1,6 @@
 {
 	"name": "zz.services",
-	"version": "20160503.0.0",
+	"version": "20160525.0.0",
 	"description": "Base services module for imazzine-developer-lib",
 	"author": {
 		"name": "Artem Lytvynov",
